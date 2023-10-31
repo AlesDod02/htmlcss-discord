@@ -1,14 +1,24 @@
 .bg-image{
     
         background-image: url("../img/jumbo.png");
+        background-size: 100%;
+        background-position: 70%;
         
-        
-       
-
 }
 .bg-stars{
     background-image: url(../img/stars.svg);
+    background-size: 50%;
+    width: 600px;
+    height: 40px;
+    text-align: center;
     
+    
+}
+.ita-img{
+    
+}
+.bg-blu{
+    background-color: #255EE9;
 }
 
 .pdleft{
@@ -42,7 +52,7 @@
     padding-top: 70px;
 }
 .padding-bot{
-    padding-bottom: 100px;
+    padding-bottom: 150px;
 }
 .gap{
     gap: -50px;

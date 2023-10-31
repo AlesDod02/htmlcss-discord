@@ -21,6 +21,12 @@
 .bg-blu{
     background-color: #255EE9;
 }
+.bg-blu2{
+    background-color: #7289DA;
+}
+.colordiscord{
+    color: #7289DA;
+}
 
 .pdleft{
     margin-left: 20px;
@@ -63,12 +69,16 @@
     background-color: #F6F6F6;
 }
 hr{
-    width: 80%;
-    color: rgb(19, 19, 212) ;
+    width: 90%;
+    color: #7289DA;
+    height: 2px;
 }
 
-.footer1{ width: 80%;
+.footer1{ width: 90%;
     margin-left: 100px;
     
     
+}
+.button{
+    margin-left: 150px;
 }

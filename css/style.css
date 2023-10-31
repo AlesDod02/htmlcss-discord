@@ -62,6 +62,9 @@
 .padding-bot{
     padding-bottom: 150px;
 }
+.padding-bot2{
+    padding-bottom: 40px;
+}
 .gap{
     gap: -50px;
 }
@@ -81,4 +84,10 @@ hr{
 }
 .button{
     margin-left: 150px;
+}
+.adventure{
+    text-align: center;
+}
+footer{
+   background-color: #23272A; 
 }

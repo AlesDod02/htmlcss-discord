@@ -73,6 +73,10 @@
 .bg-grey{
     background-color: #F6F6F6;
 }
+.white{
+    margin-left: -5px;
+    color: rgb(0, 0, 0);
+}
 hr{
     width: 90%;
     color: #7289DA;
